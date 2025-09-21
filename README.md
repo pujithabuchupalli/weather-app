@@ -48,6 +48,14 @@ Wind Speed
 
 Weather Description
 
+## 📸 Output Screenshots
+
+### ☀️ Clear Weather
+![Clear Weather](screenshots/output1.png)
+
+### 🌧️ Rainy Weather
+![Rainy Weather](screenshots/output2.png)
+
 **🛠️ Technologies Used**
 
 HTML5
